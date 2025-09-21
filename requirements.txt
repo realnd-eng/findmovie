@@ -1,6 +1,5 @@
-streamlit 
-pandas 
-numpy 
-altair 
-cosine_similarity
-CountVectorizer
+streamlit
+pandas
+numpy
+altair
+scikit-learn
